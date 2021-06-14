@@ -39,13 +39,16 @@ body{
 .navbar-dark{
     background-color: #512DA8;
 }
-.card-header{
-    background: orange !important;
-}
+
 .btn-primary{
     background: orange !important;
     color: black !important;
     
+}
+
+#reserveCardheader{
+    background: orange !important;
+
 }
 
 .tab-content{
